@@ -5,10 +5,13 @@
     
 };
 
+.center-text {
+    text-align: center;
+};
+
 body {
     background-color: #E0E0E2;
-    
-};
+    };
 
  h1 {
 color: #721817;
@@ -17,17 +20,17 @@ text-align: center;
 
 h2 {
     color:#721817;
-};
-
-span h2{
-    color: #fa9f42;
     font-size: 00.75em;
-}
-
-div #center-text {
-    text-align: center;
 };
-
+h2 {
+    color:#721817;
+    font-size: 00.75em;
+};
+span {
+    font-size: 00.75em;
+    color: #fa9f42;
+    
+};
 #copyright{
     padding-top: 12px;
     font-size: 00.75em;
