@@ -6,6 +6,7 @@
 };
 
 .center-text {
+    display:block;
     text-align: center;
 };
 
@@ -15,7 +16,8 @@ body {
 
  h1 {
 color: #721817;
-text-align: center;
+     text-align: center;
+     display: block;
 };
 
 h2 {
